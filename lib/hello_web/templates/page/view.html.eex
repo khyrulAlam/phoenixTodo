@@ -1,0 +1,5 @@
+<div>
+
+    <h3>From view page <%= @message %> </h3>
+
+</div>
